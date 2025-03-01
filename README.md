@@ -15,7 +15,6 @@ Test and collect feedback to improve the material.
 Through reviewing feedback from the audience, carrying out surveys or interviews and monitoring the engagement from the audience. This helps gauge their understanding hence choose right delivery method.
 
 5. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
-
 Using visual aids, step-by-step instructions, and real-world examples.
 Engaging them through interactive aspects, soliciting questions and feedback, and testing content with non-experts.
 Simplifing language, adding context, employing analogies, and organizing material into manageable chunks.
